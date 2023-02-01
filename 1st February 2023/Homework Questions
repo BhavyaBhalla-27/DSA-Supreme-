@@ -1,0 +1,5 @@
+1) C is what level language? High level, middle level or low level language?
+2) Read what keywords are reserved.
+3) Short takes 2 bytes of memory so the max number that can be stored is 2^16 - 1, so what happens if we add 10 to this number and store in short, then what will be the output?
+4) Solve 50 MCQs on typecasting. 
+5) Explore ternary operator
