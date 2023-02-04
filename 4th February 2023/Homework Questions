@@ -1,0 +1,5 @@
+1) a = false -> ~a  = -1 but how to get 1 here like negation of 0 is 1 but we are getting -1, do hit and trial and try to know whether we can get ~0 as 1 or not.
+2) Why can't we confidently say that in right shift operator , we can not say that it is always divide by 2? and why can we say that in left shift it is always multiply by 2
+3) int a = 5; why is the output of (++a) * (++a) = 49. Use the concept of precedence in this
+4) Search what can be given inside the expression of switch i.e. float,string,statement,character,number? Explore them
+5) Can we use continue inside switch instead of continue?
