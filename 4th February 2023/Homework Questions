@@ -3,3 +3,4 @@
 3) int a = 5; why is the output of (++a) * (++a) = 49. Use the concept of precedence in this
 4) Search what can be given inside the expression of switch i.e. float,string,statement,character,number? Explore them
 5) Can we use continue inside switch instead of continue?
+6) Using global variable is a bad practice. Why?
