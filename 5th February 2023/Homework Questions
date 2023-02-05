@@ -1,0 +1,13 @@
+1) Can we create more than one main function in a single program?
+2) Can we return 1,-1 in the main() function?
+3) Why no input paramters inside main()? Can we put input parameters inside main() function?
+4) Can we write any expression inside the case of switch statement? 
+5) Function to display area of circle
+6) Number is odd or even
+7) Factorial of number
+8) Number is prime or not
+9) Print all prime numbers from 1 to n
+10) Why can't we calculate factorial above 13?
+11) Reverse an integer
+12) Set the ith bit
+13) Convert celsius to fahrenheit.
