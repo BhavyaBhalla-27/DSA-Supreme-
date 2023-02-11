@@ -1,0 +1,6 @@
+1) Try union of two arrays with duplicate cases (Using intersection logic, mark common elements as INT_MIN and then use if condition). 
+2) Try to find 4 numbers in an array that give sum to a particular value on grounds of triplet and pair sum.
+3) Try to solve (Will be done in class as well)
+  i) left rotate array by one element
+  ii) majority element in array
+  iii) buy and sell stock - 1
