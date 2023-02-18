@@ -1,0 +1,5 @@
+1) Why 11 precision is not acceptable in case of square root using binary search? (Check stack overflow)
+2) Dry Run on the questions such as pivot, search in rotated and sorted array. 
+3) Search in a nearly sorted array in log time
+4) Division of two numbers using binary search
+5) Find odd occuring element using binary search
