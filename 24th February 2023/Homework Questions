@@ -1,0 +1,4 @@
+1) Check the stable and unstable sorting algorithm defintion. What type is bubble, selection sort and insertion sort?
+2) Make a table of Time complexity and Space complexity of Normal case, Best Case and Worst case of Bubble,selection and insertion sort.
+3) Sort array using sort inbuilt function
+4) Which algorithm is used to implement inbuilt sort function
