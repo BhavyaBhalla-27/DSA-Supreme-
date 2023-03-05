@@ -1,0 +1,8 @@
+1) See the articles on type of pointers (Preferably after Dyanamic Memory Allocation)
+2) Explore return by reference concept
+3) int *solve(){
+   int a = 5;
+   int *ans = &a;
+   return ans;
+  }
+  The above question is a very good question and can come in interview.
