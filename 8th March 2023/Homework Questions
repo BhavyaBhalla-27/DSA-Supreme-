@@ -1,0 +1,4 @@
+1) Do check out what is the difference between
+   --> int *p[10];
+   --> int (*p)[10];
+(Check the game of precedence)
