@@ -1,0 +1,26 @@
+1) Dry run on the code 
+    void printArrayElements(int arr[],int size){
+        // Base Case
+        if(size == 0)
+            return;
+        // Processing
+        cout<<arr[0]<<" ";
+        // Recursive Relation
+        printArrayElements(arr+1,size-1);
+    }
+
+2) Dry run on the below code (Reverse printing of the array)
+
+void printArrayElements(int arr[],int i,int size){
+    // Base Case
+    if(i == size)
+        return;
+    // Recursive Relation
+    printArrayElements(arr,i+1,size);
+    // Processing
+    cout<<arr[i]<<" ";
+}
+
+3) Dry Run on 5 test cases discussed in today's class
+
+4) Incase of finding digits of number why is the answer of 0647 coming to be 4 2 3 as the digits. Find out the reason.
