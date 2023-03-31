@@ -1,0 +1,2 @@
+Given an unsorted array arr[] of size N having both negative and positive integers. The task is place all negative element at the end of array without changing the order of positive element and negative element.
+GFG Link - https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1
