@@ -1,0 +1,3 @@
+1) Implement constructor and overriding through code and try different cases.
+2) Difference between compile time and run time polymorphism. (Very famous question in interview)
+3) In inheritance, copy of data members is created in derived class or is passed by reference?? (Just think about the need of this question)
