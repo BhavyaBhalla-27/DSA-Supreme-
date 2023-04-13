@@ -34,7 +34,7 @@ void merge(int arr[],int s,int e){
         arr[mainArrayIndex++] = left[leftIndex++];
     }
     // Right array is bigger in size so simply copy these values into main array
-    while(leftIndex < len1){
+    while(rightIndex < len2){
         arr[mainArrayIndex++] = right[rightIndex++];
     }
 
