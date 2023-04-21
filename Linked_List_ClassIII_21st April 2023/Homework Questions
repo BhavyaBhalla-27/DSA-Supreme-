@@ -1,0 +1,9 @@
+1) Code middle of the linked list using length approach.
+2) Linked List is circular or not. 
+  -> Using Single Pointer
+  -> Using slow and fast pointer
+  -> Using map
+3) Find and count function in map.
+4) Should we write slow!= NULL in the LOOP where fast!=NULL ??
+5) Can we apply slow and fast to the find whether circular linked list or not?
+6) Find a case where prev = fast thing will fail while we remove the loop in linked list.
