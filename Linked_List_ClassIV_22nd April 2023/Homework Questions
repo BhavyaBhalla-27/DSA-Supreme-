@@ -1,0 +1,5 @@
+1) Remove duplicates from unsorted linked list.
+  -> Nested loops
+  -> Map
+  -> Sort and then apply logic of remove duplicates in sorted linked list
+2) Add 1 to the Linked List
