@@ -1,0 +1,4 @@
+1) Read documentation of queue.
+2) Handle the case of full in case of circular queue when front is ahead of rear.
+3) Implement circular queue with the help of modulus operator.
+4) Read documentation of deque.
