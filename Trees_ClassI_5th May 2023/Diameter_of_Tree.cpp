@@ -70,5 +70,6 @@ int main()
     cout << "Enter data for root node" << endl;
     cin >> data;
     root = buildTree(data);
+    diameterBinaryTree(root);
     return 0;
 }
