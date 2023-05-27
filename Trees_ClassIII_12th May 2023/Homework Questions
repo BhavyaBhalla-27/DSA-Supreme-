@@ -1,0 +1,3 @@
+1) Convert the findPos function in O(1) approach using hashmap by creating the mappings.
+2) Construct a tree from preorder and postorder traversal.
+3) Code vertical level, zig zag , boundary and diagonal traversal.
