@@ -1,0 +1,4 @@
+1) Explore vector<int>, greater<int> used in STL of priority queue to create min heap.
+2) Merge 2 max heaps by both approaches on Pg 254 and 255 in Notes.
+3) Convert BST into max-heap using approach given on Pg-257.
+4) Check whether a tree is a CBT or not using approach given on Pg-258.
