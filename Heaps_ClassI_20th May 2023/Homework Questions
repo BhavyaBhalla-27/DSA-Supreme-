@@ -1,0 +1,2 @@
+1) Use dyanamic array in case of heap class.
+2) How time complexity of buildHeap is n instead of nlogn.
