@@ -91,7 +91,6 @@ int solveTab(int weight[], int value[], int n, int capacity)
             }
             // exclude call
             int exclude = 0 + dp[index-1][wt];
-            // Step 2 : Store in dp array
             dp[index][wt] = max(include, exclude);
         }
     }
