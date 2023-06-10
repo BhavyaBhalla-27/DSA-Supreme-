@@ -13,7 +13,7 @@ public:
             return 0;
         if(n!=0 && target == 0)
             return 0;
-        long long int ans = 1;
+        long long int ans = 0;
         for(int i = 1;i<=k;i++){
             ans = ans + solveRec(n-1,k,target-i);
         }
