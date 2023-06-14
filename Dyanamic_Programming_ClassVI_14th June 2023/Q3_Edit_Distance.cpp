@@ -92,9 +92,9 @@ public:
         }
         // Step 3 : Reverse the flow of top down
         for(int i = a.length()-1;i>=0;i--){
-            for(int j = b.length()-1;j>=0;j--){
-                // Tricky step (Base case modified)
+            // Tricky step (Base case modified)
                 curr[b.length()] = a.length() - i;
+            for(int j = b.length()-1;j>=0;j--){
                 // Match case
                 int ans = 0;
                 if(a[i] == b[j]){
@@ -117,10 +117,6 @@ public:
     int minDistance(string word1, string word2) {
         int i = 0;
         int j = 0;
-        if(word1.length() == 0)
-            return word2.length();
-        if(word2.length() == 0)
-            return word1.length();
         // Recursive code
         // int ans = solveRec(word1,word2,i,j);
         
